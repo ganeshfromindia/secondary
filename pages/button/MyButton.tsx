@@ -8,7 +8,7 @@ function MyButton(props: { onClick: () => void }) {
        
       <div className="card">
         <button onClick={props.onClick}>
-          count added
+          count added abcd
         </button>
         
       </div>
